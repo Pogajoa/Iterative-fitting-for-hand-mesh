@@ -1,2 +1,2 @@
-# Weakly-Supervised-Mesh-Convolutional-Hand-Reconstruction-in-the-Wild
-Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
+# Iterative fitting for hand mesh
+Iterative fitting for hand mesh
